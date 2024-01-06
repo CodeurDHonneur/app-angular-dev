@@ -10,7 +10,7 @@ import { Housinglocation } from '../housinglocation';
 export class HomeComponent {
   readonly baseUrl = 'https://angular.dev/assets/tutorials/common';
 
-  housingLocation: Housinglocation = {
+  test: Housinglocation = {
     id: 9999,
     name: 'Test Home',
     city: 'Test city',
